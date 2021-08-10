@@ -3,7 +3,6 @@
 }
 
 body {
-  /* background-color: #ebe04b; */
   background-image: url(corn.jpg);
   background-size: cover;
   display: flex;
@@ -25,7 +24,6 @@ body {
   border-radius: 50%;
   position: relative;
   top: -100px;
-
 }
 
 .container::before {
@@ -36,9 +34,9 @@ body {
   width: 0;
   height: 0;
   border-top: 15px solid transparent;
-  border-right: 44px solid #fff;
+  border-right: 40px solid #fff;
   border-bottom: 15px solid transparent;
-  transform: rotate(-85deg);
+  transform: rotate(-82deg);
 }
 
 h3 {
